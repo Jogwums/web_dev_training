@@ -1,0 +1,23 @@
+.team{
+	background:pink;
+	min-height:300px;
+	padding:30px 60px;
+	
+}
+.what-we-do{
+	background:teal;
+	min-height:300px;
+	padding:30px 60px;
+	
+}
+.team h1{
+	margin-bottom:40px;
+}
+@media screen and(max-width:992px){
+	.team img{
+		margin-bottom:20px;
+	}
+}
+.contact{
+	background-color:lightblue;
+}
